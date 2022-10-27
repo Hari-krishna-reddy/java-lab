@@ -2,7 +2,7 @@
 #binary search in java
 import java.util .*;
 
-public class Java {
+public class binarySearch {
 
 
 		public static void main(String[] args){
